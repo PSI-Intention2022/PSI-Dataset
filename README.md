@@ -71,3 +71,13 @@ and the output frames are saved as:
 ```
 and the output frames are saved as:
 - *ROOT_PATH*/PSI2.0_TrainVal/annotations/cognitive_annotation_extended.
+
+## 3. Baselines using PSI 2.0 Dataset
+
+We provide baselines for all tracks of challenges as hints about using the PSI 2.0 dataset for a quick start. 
+
+***Track 1 ([Pedestrian Intent Prediction (PIP)](https://github.com/PSI-Intention2022/PSI-Intent-Prediction.git))***
+
+***Track 2 ([Pedestrian Trajectory Prediction (PTP)](https://github.com/PSI-Intention2022/PSI-Trajectory-Prediction.git))***
+
+***Track 3 ([Driver Decision Prediction (DDP)](https://github.com/PSI-Intention2022/PSI-DriverDecision-Prediction.git))***

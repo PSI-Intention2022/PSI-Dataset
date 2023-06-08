@@ -5,7 +5,7 @@ This Repository contains the scripts and instructions about preparing the **Pede
 - **PSI 1.0**: video_0001 ~ video_0110
 - **PSI 2.0**: video_0001 ~ video_0204
 
-**NOTE: You may only need to use PSI 2.0 dataset for the [[IEEE ITSS PSI Competition](https://psi-intention2022.github.io)]**. But the PSI 1.0 dataset is also provided, and feel free to use it if you would explore extra knowledge beyond the PSI 2.0.
+**NOTE: You may only need to use PSI 2.0 dataset for the [[IEEE ITSS PSI Competition](https://psi-intention2022.github.io)]**. But the PSI 1.0 dataset is also provided, and feel free to use it if you would explore additional knowledge beyond the PSI 2.0.
 
 # 1. PSI 2.0 Dataset
 

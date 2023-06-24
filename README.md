@@ -1,6 +1,9 @@
-# PSI-Dataset
+# Pedestrian Situated Intent (PSI) Bencharmark
 
 This Repository contains the scripts and instructions about preparing the **Pedestrian Situated Intent (PSI) 1.0 & 2.0** dataset. 
+
+![image](./images/dataset_multimodal.jpg)
+![image](./images/dataset_temporal.jpg)
 
 - **PSI 1.0**: video_0001 ~ video_0110
 - **PSI 2.0**: video_0001 ~ video_0204
@@ -72,6 +75,8 @@ and the output frames are saved as:
 ```
 and the output frames are saved as:
 - *ROOT_PATH*/PSI2.0_TrainVal/annotations/cognitive_annotation_extended.
+
+![image](./images/statistics.png)
 
 ## Part 3. Baselines for Different Tasks Using the PSI Dataset 
 

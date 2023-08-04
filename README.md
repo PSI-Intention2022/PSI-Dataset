@@ -54,7 +54,7 @@ and the output frames are saved as:
 - Crossing Intent: We extend the crossing intent annotation to the frames following the current key-frame, until the next frame that one of the annotators make another estimation (no matter if the two annotations are the same or not).
 - Reasoning/Explanation: We extend the reasoning/description of the intent estimation to the frames prior to the current key-frame, until the last key-frame that one of the annotators made another estimation, assuming the description is about the scenes observed by the annotators to support the intent estimation.
 
-*Already-crossed*: If one pedestrian crossed in front of the moving vehicle, we treat the status after the target pedestrian crossed the middle line of the ego-view as "*Already-crossed*." There is no need to predict any crossing intent once the target pedestrian has already crossed the road.
+*Already-crossed*: When a pedestrian has already crossed in front of the moving vehicle, we categorize the status after the target pedestrian crosses the middle line of the ego-view as "*Already-crossed*." In this scenario, there is no necessity to predict any further crossing intent, as the target pedestrian has already safely crossed the road.
 
 
 ```shell

@@ -13,7 +13,7 @@ This Repository contains the scripts and instructions about preparing the **Pede
 # 1. PSI 2.0 Dataset
 
 ## Part 1. Prepare the dataset
-***Step 1.*** Download the PSI 2.0 Dataset videos from [ [Google Drive](https://drive.google.com/drive/folders/1dKB1BZQNUB2D8uC-6WhvJzFk8tPXl5re?usp=sharing)]. Move *\*.zip* files to the dataset *ROOT_PATH*, and unzip them by 
+***Step 1.*** Download the PSI 2.0 Dataset videos from [ [Google Drive](https://drive.google.com/drive/folders/1w_psSDwB_z7alJO5uCQ8d28NiOjRMK-g?usp=sharing)]. Move *\*.zip* files to the dataset *ROOT_PATH*, and unzip them by 
 
 ```shell
     cd ROOT_PATH # e.g., root/Dataset
@@ -23,7 +23,7 @@ This Repository contains the scripts and instructions about preparing the **Pede
 The extracted folder contains all videos (Train/Val):
 -  *ROOT_PATH/PSI_Videos/videos*.
 
-***Step 2*** Download PSI 2.0 data annotations from [[Google Drive](https://drive.google.com/drive/folders/1NXuAh_fW7hLofaOffl_eDeD3l84d_4Jj?usp=sharing)]. Move downloaded *\*.zip* files to the dataset *ROOT_PATH*.
+***Step 2*** Download PSI 2.0 data annotations from [[Google Drive](https://drive.google.com/drive/folders/1w_psSDwB_z7alJO5uCQ8d28NiOjRMK-g?usp=sharing)]. Move downloaded *\*.zip* files to the dataset *ROOT_PATH*.
 
 ```python
     unzip '*.zip' -d .
@@ -91,7 +91,7 @@ We provide baselines for all tracks of challenges as hints about using the PSI 2
 
 # 2. PSI 1.0 Dataset
 
-If you would like to use the PSI 1.0 dataset annotations, download PSI 1.0 data annotations from [[Google Drive](https://drive.google.com/drive/folders/1u0kErzPPdhd4Y7yQ9DRBtP5PirbtbKzY?usp=sharing)]. Move downloaded *\*.zip* files to the dataset *ROOT_PATH*.
+If you would like to use the PSI 1.0 dataset annotations, download PSI 1.0 data annotations from [[Google Drive](https://drive.google.com/drive/folders/1w_psSDwB_z7alJO5uCQ8d28NiOjRMK-g?usp=sharing)]. Move downloaded *\*.zip* files to the dataset *ROOT_PATH*.
 
 ```shell
     unzip '*.zip' -d .
